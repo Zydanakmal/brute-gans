@@ -1,17 +1,17 @@
 ```bash
-$ pkg update && upgrade
-
-$ pkg install python2
+$ pkg update && pkg upgrade
 
 $ pkg install git
 
-$ pip2 install lolcat
+$ pkg install python2
 
-$ pip2 install bs4
+$ pip2 install mechanize
 
 $ pip2 install requests
 
-$ pip2 install mechanize
+$ pip2 install futures
+
+$ pip2 install bs4
 
 $ git clone https://github/Zydanakmal/brute-gans
 
